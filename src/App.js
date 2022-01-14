@@ -1,6 +1,5 @@
 import Container  from "react-bootstrap/Container"
 import { Button, Stack } from "react-bootstrap"
-import './App.css';
 import BudgetCard from "./components/BudgetCard"
 import AddBudgetModal from "./components/AddBudgetModal";
 import {useState} from "react"
